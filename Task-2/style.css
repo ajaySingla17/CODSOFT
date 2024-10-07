@@ -61,7 +61,7 @@ header {
     text-indent: -9999px; /* Hide the text content */
     width: 100px; /* Set width as needed */
     height: 100px; /* Set height as needed */
-    background: url("../IMAGES/logo.svg") center/contain no-repeat; /* Replace "logo.gif" with the file path of your GIF */
+    background: url("IMAGES/logo.svg") center/contain no-repeat; /* Replace "logo.gif" with the file path of your GIF */
 }
 
 header a, footer a {
@@ -81,7 +81,7 @@ header a:hover, footer a:hover {
     height: 100vh;
     width: 100%;
     position: relative;
-    background: url("../IMAGES/img.jpg");
+    background: url("IMAGES/img.jpg");
     background-position: center 65%;
     background-size: cover;
     background-attachment: fixed;
